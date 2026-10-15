@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.pyc
+downloads/
+results.csv
+.ruff_cache/
+build/
+dist/
+*.egg-info/
+.auth/
+*.storage-state.json
+screenshots/
+.playwright-browsers/
